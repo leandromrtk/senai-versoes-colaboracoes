@@ -2,3 +2,5 @@
 Repositório de versões e colaborações
 
 lembrei do comando: git status
+
+lembrei do comando: git commit
